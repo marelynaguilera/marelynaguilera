@@ -11,5 +11,7 @@ I also think that there is power in communities, so I actively participate in <a
 Find me around the web 🌎 <a  href="https://iterative.me">https://iterative.me</a> where I write my thoughts and my learnings on how to deliver better software through collaboration and communication, and, of course, better techniques (manual and automated) with the understanding that the responsibility for quality lies with the entire team and at all levels of our software development process.
 
 :pencil: Read me on <a href="https://iterative.me/blog">iterative.me</a>
+
 :bulb: Sharing updates on <a href="https://www.linkedin.com/in/marelyn/">LinkedIn</a>
+
 :open_file_folder: Sharing resources on <a href="https://iterative.me/resources">Free Resources</a>
