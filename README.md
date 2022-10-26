@@ -1,4 +1,4 @@
-# Hi, I'm Maria 👋:coffee:
+# Hi, I'm Maria
 
 I'm software engineer and I have been in the software world for about 15 years. I started as a developer, but I have held roles of Scrum master, and Project manager, and more recently, Agile tester. I am passionate about quality and creating products that make life easier for users.
 
